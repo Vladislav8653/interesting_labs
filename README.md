@@ -4,3 +4,6 @@ Here are different projects, also known as labs, on different subjects that were
 This branch contains graphic editor application. This project uses diffrent design patterns and with each subsequent lab it has more functionality.
 ## MiAPR
 This branch contains one classification method "K-means"
+
+![image](https://github.com/user-attachments/assets/eeaabe70-3ee5-416e-902a-682d110bc372)
+
